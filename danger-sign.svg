@@ -98,7 +98,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="matrix(1.0656931,0,0,1.0656931,3.0945565,0.09803089)">
+     transform="matrix(1.0656931,0,0,1.0656931,3.0945565,3.0982878)">
     <rect
        style="fill:#f2ea13;fill-opacity:1;stroke:#020000;stroke-width:2.90583;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect27915"
@@ -124,7 +124,7 @@
      style="display:inline">
     <g
        id="g35535"
-       transform="translate(28.621313,189.7797)"
+       transform="translate(28.621313,192.77973)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka6.svg"
        inkscape:export-xdpi="96"
@@ -152,7 +152,7 @@
     </g>
     <g
        id="g35528"
-       transform="translate(7.6507411,131.2443)"
+       transform="translate(7.6507411,134.24433)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka1.svg"
        inkscape:export-xdpi="96"
@@ -900,7 +900,7 @@
     </g>
     <g
        id="g35681"
-       transform="translate(-47.394384,138.39615)"
+       transform="translate(-47.394384,141.39618)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka4.svg"
        inkscape:export-xdpi="96"
@@ -1012,7 +1012,7 @@
     </g>
     <g
        id="g35541"
-       transform="translate(15.264092,173.78571)"
+       transform="translate(15.264092,176.78574)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka2.svg"
        inkscape:export-xdpi="96"
@@ -1036,7 +1036,7 @@
     </g>
     <g
        id="g35605"
-       transform="translate(-8.972262,171.64501)"
+       transform="translate(-8.972262,174.64504)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka3.svg"
        inkscape:export-xdpi="96"
@@ -1196,7 +1196,7 @@
     </g>
     <g
        id="g35613"
-       transform="translate(37.495872,170.43475)"
+       transform="translate(37.495872,173.43478)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka9.svg"
        inkscape:export-xdpi="96"
@@ -1228,7 +1228,7 @@
     </g>
     <g
        id="g35694"
-       transform="translate(3.4813837,169.97566)"
+       transform="translate(3.4813837,172.97569)"
        style="display:inline"
        inkscape:export-filename="../../../Desktop/znacka5.svg"
        inkscape:export-xdpi="96"
@@ -1282,7 +1282,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Text">
+     inkscape:label="Text"
+     transform="translate(0,3.599697)">
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:32.6967px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39026;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1317,7 +1318,7 @@
          sodipodi:role="line"
          id="tspan36696"
          style="fill:#000000;stroke:none;stroke-width:0.310002"
-         x="102.62063"
+         x="102.62064"
          y="56.413391">LITERALLY. EVERY. FUCKING. THING</tspan></text>
   </g>
 </svg>
